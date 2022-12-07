@@ -27,6 +27,9 @@ url: "https://thatgiga.github.io" # the base hostname & protocol for your site
 #github_username:  thatgiga
 mastodon_username: thatgiga
 
+lang: it
+date_locale: it
+
 # Build settings
 theme: minima
 plugins:
