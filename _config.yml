@@ -23,8 +23,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   записки на манжетах ±ö± pensieri, parole, opere, omissioni discontinue
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thatgiga.github.io" # the base hostname & protocol for your site
-twitter_username: thatgiga
-github_username:  thatgiga
+#twitter_username: thatgiga
+#github_username:  thatgiga
 mastodon_username: thatgiga
 
 # Build settings
