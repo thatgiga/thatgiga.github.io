@@ -20,7 +20,7 @@
 
 title: Appunti sui polsini
 description: >- # this means to ignore newlines until "baseurl:"
-  записки на манжетах ±ö± pensieri, parole, opere, omissioni
+  записки на манжетах ±ö± pensieri, parole, opere, omissioni discontinue
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thatgiga.github.io" # the base hostname & protocol for your site
 twitter_username: thatgiga
