@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Stop"
+date:   2007-08-28 01:01:00 +0100
+categories: luoghi
+---
+Acronimo di *"safety through observation program"*, si tratta di un metodo messo a punto dalla multinazionale chimica [DuPont](http://www.dupont.com/) (e da essa venduto ad altre aziende) teso alla riduzione del numero di incidenti ed infortuni in fabbrica.
+
+Come ciò che lastrica ogni via che porta all'inferno, l'intenzione è lodevole, ma come funziona in pratica?  
+Mi è capitato si scoprirlo, dato che l'azienda per cui lavoro l'ha adottato a partire dall'aprile del 2006.
+
+Una trentina di dipendenti tra cui io (il 15-20% del totale), distribuiti uniformemente tra le attività della fabbrica, è stata selezionata e istruita a fare le "osservazioni", ovvero ad osservare come lavorano i colleghi e verificare se tutto ciò che fanno sia immune da rischio e pericolo e, qualora ciò che stanno facendo li esponesse ad un rischio potenziale, fermarli e discutere con loro su dove e perché stanno sbagliando.
+
+Il tutto viene reso sistematico dal compilare un'apposita schedina che a sua volta andrà ad alimentare un database, corredata dalle informazioni sul reparto dove l'osservazione è stata fatta e dal nome dell'osservatore, non dell'osservato, perché "questo non vuol essere uno strumento disciplinare" anche se *de facto* una ricaduta discplinare non è esclusa, se il comportamento non sicuro è il rifiutarsi sistematico di indossare un qualche mezzo di protezione o di eseguire una procedura.  
+La forza del metodo sta nel grande numero di osservazioni che sono richieste: non meno di tre al mese per ogni osservatore. Solo in questo modo le cifre diventano statisticamente significative e possono dare indicazioni valide ai responsabili della sicurezza.
+
+E così a fine addestramento (cosa osservare,  come osservare, quando osservare, etc.) mi sono ritrovato a dover monitorare i colleghi e compilare schedine pensando all'ironia storico-politica del vedere una multinazionale statunitense (terra campione di libertà, mi dicono) ritrovarsi a ricorrere a tecniche di controllo sociale che sembrano provenire dalla DDR, passando per le catene di montaggio della FIAT degli anni ruggenti, fatte di controllori che controllano i controllati controllandosi a vicenda, dove vivono meglio gli entusiasti, quelli che all'efficacia di  cose del genere - sinceramente o per leccaculismo - ci credono *davvero*.  
+Avendo necessità di conservare il posto di lavoro, la mia linea di difesa è sempre la solita: *"se obedece pero no se cumple"*. Si obbedisce cioè, ad esempio, avvertendo per tempo il collega osservando che l'avrei osservato. Ovviamente non tutti i colleghi hanno questa mia allergia per il controllo sociale, c'erano anche osservazioni a sorpresa fatte da osservatori entusiasti in reparti diversi dal proprio, anche allo scopo di osservare l'osservatore e assicurarsi che non barasse (troppo).
+
+Vi chiederete, dopo un anno abbondante di schedine se abbiamo vinto qualcosa, ovvero se gli infortuni sono calati.  
+Non saprei, dati ufficiali lo stabilimento non ne ha pubblicati, la mia percezione è che una maggiore attenzione a non farsi male s'è venuta a creare (non foss'altro per evitare tutta la farraginosa burocrazia interna che fa seguito a infortuni e incidenti).  
+In ogni caso, dopo la notizia della imminente chiusura dell'impianto per ristrutturazione il numero di osservazioni mensili è crollato: quasi 100 a maggio, 6 a giugno e più nessuna da luglio in poi. Anche gli entusiasti sembrano essersi scottati ed aver perso tutto il loro fervore.
+
+Ne scrivo oggi perché il responsabile dei siti produttivi italiani ci ha chiesto perché nel nostro impianto non vengono più eseguite le osservazioni. Credo che in risposta abbia avuto un eloquente silenzio, educato sostituto di un corale e convinto "ma andatevene affanculo".
