@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Produci, comsuna, crepa (reprise)"
+title:  "Produci, comsuma, crepa (reprise)"
 date:   2007-10-27 01:01:00 +0100
 categories: parole
 ---
