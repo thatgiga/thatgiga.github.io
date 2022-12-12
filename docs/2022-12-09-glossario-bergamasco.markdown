@@ -32,7 +32,7 @@ Spesso usato al condizionale, *"merès"* (si dovrebbe), è un'invito garbato a c
 **Menemà** (avv.): in quel mentre, in quel momento, proprio allora.   
 *"Sìe dré a ndà a laurà, menemà 'l'è tecàt a fiocà"* (stavo andando a lavorare, e in quel momento è iniziato a nevicare).
 
-**Ncorladüra** (sost. f. s.): è l'indolenzimento o il dolore muscolare diffuso che si avverte dopo un'insolita attività fisica che comporta l'accumulo di acido lattico nei muscoli. *"Ncorlà"* è il verbo usato per descrivere il trovarsi in quella condizione. *"Ger só ndacc a caminà e adess g'o i gambe ncorlàde"* ,"ieri sono andato a camminare e ora ho le gambe indolenzite".
+**Ncorladüra** (sost. f. s.): è l'indolenzimento o il dolore muscolare diffuso che si avverte dopo un'insolita attività fisica che comporta l'accumulo di acido lattico nei muscoli. *"Ncorlà"* è il verbo usato per descrivere il trovarsi in quella condizione. *"Ger só ndacc a caminà e adess g'o i gambe ncorlàde"*, "ieri sono andato a camminare e ora ho le gambe indolenzite".
 
 **Pòta** (int. inv.): è l'intercalare con cui in bergamasco si esprime il senso di rassegnazione davanti all'inevitabile, la constatazione che è così che va il mondo, che occorre pazienza (più lunga la "ò", maggiore la pazienza).
 Se Douglas Adams fosse stato bergamasco, *"pòta"* sarebbe stata la Risposta, e non "42".
