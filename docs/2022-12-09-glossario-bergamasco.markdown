@@ -34,6 +34,8 @@ Spesso usato al condizionale, *"merès"* (si dovrebbe), è un'invito garbato a c
 
 **Ncorladüra** (sost. f. s.): è l'indolenzimento o il dolore muscolare diffuso che si avverte dopo un'insolita attività fisica che comporta l'accumulo di acido lattico nei muscoli. *"Ncorlà"* è il verbo usato per descrivere il trovarsi in quella condizione. *"Ger só ndacc a caminà e adess g'o i gambe ncorlàde"*, "ieri sono andato a camminare e ora ho le gambe indolenzite".
 
+**Panàda** (sost. f. s.): zuppa preparata ammollando in acqua o brodo leggero del pane vecchio, successivamente cotta aggiungendo un uovo e mescolando fino ad ottenere una crema omogenea. È chiamata *"patrìt"* la variante che prevede l'uso di pan grattato al posto del pane vecchio.
+
 **Pòta** (int. inv.): è l'intercalare con cui in bergamasco si esprime il senso di rassegnazione davanti all'inevitabile, la constatazione che è così che va il mondo, che occorre pazienza (più lunga la "ò", maggiore la pazienza).
 Se Douglas Adams fosse stato bergamasco, *"pòta"* sarebbe stata la Risposta, e non "42".
 
