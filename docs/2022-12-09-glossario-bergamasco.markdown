@@ -22,6 +22,9 @@ A differenza di quanto sostengano alcune correnti religiose, in bergamasco *"ol 
 
 (nota di fonetica: la "g" dolce è generalmente più dolce di quanto non sia in italiano, somiglia più a una "j" francese e, in alcune zone, diventa persino una "z" sonora).
 
+**Lòt** (sost. m.s.): lotto, lotteria.  
+*"Al vèghe al lòt"*, "lo vedo al lotto", è un'espressione idiomatica usata per descrivere una cosa posta in posizione precaria, sul punto di cadere o di rompersi.
+
 **Mè** (v. int.): bisogna, si deve.  
 Analogo nel senso e nell'uso all'"il faut" del francese. Da pronunciare con la "è" aperta, dato che *"mé"* (con la "é" chiusa) significa "io".
 Spesso usato al condizionale, *"merès"* (si dovrebbe), è un'invito garbato a compiere un'azione o a svolgere un compito a lungo rimandato.
