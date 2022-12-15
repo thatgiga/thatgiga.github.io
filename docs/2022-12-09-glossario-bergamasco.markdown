@@ -17,6 +17,9 @@ Come risposta breve *"só dré"* significa "lo sto facendo", per dire invece "so
 
 **Fà** (sost. m. s.): viene chiamato con questo termine il sapore che resta o si ripropone in bocca a seguito di un pasto pesante, di una digestione difficile o di un fegato affaticato. *"Al ma é sö'l fà de pierù"*, "mi torna su il sapore di peperone".
 
+**Fèta** (sost. f. s.): fetta.  
+*"Dà öna fèta"*, "dare una fetta", è un'espressione idiomatica che significa stancare, annoiare, infastidire. *"Al mé n'a dacc öna fèta"*, "mi ha annoiato molto".
+
 **Gènder** (sost. m. s.): genero.  
 A differenza di quanto sostengano alcune correnti religiose, in bergamasco *"ol gènder"* è un componente fondamentale della famiglia tradizionale.
 
@@ -52,6 +55,9 @@ Il termine viene usato anche in senso scherzoso per definire una persona ingorda
 
 **Stretép** (sost. s. m.): nubifragio, temporale violento, con vento e grandine.  
 *"Tép"* è "tempo", come in italiano sia in senso meteorologico che fisico-filosofico. Il prefisso *"stre-"* corrisponde al prefisso accrescitivo italiano "stra-".
+
+**Strigòzz** (sost. s. m.): cencio, straccio.  
+Per estensione, *"striguzzù"* è il vagabondo cencioso e il verbo *"strigozzà"* è il vagabondare senza scopo.
 
 **Ternegà** (v. intr.): odorare intensamente.  
 Il verbo ha un'accezione piuttosto negativa e si usa quando l'odore - non necessariamente cattivo - risulta tanto intenso da dare fastidio. *"La gh'ìa adòss tat de chèl pröföm, che la ternegàa"*, "aveva addosso tanto di quel profumo, che dava fastidio".
