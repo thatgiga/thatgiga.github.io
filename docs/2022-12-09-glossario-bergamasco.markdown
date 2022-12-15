@@ -52,3 +52,6 @@ Il termine viene usato anche in senso scherzoso per definire una persona ingorda
 
 **Stretép** (sost. s. m.): nubifragio, temporale violento, con vento e grandine.  
 *"Tép"* è "tempo", come in italiano sia in senso meteorologico che fisico-filosofico. Il prefisso *"stre-"* corrisponde al prefisso accrescitivo italiano "stra-".
+
+**Ternegà** (v. intr.): odorare intensamente.  
+Il verbo ha un'accezione piuttosto negativa e si usa quando l'odore - non necessariamente cattivo - risulta tanto intenso da dare fastidio. *"La gh'ìa adòss tat de chèl pröföm, che la ternegàa"*, "aveva addosso tanto di quel profumo, che dava fastidio".
