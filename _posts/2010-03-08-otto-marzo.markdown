@@ -2,7 +2,7 @@
 layout: post
 title:  "Otto marzo"
 date:   2010-03-08 01:02:00 +0100
-categories: parole
+categories: persone
 ---
 Alcune di voi faranno spallucce, dicendo che è diventato un rito svuotato di ogni significato. Si smarcheranno dal femminismo, roba vecchia, buona solo per comuniste nostalgiche prive di ogni fascino, ormai non più necessaria. Diranno che oggi in Italia le donne non sono più sfruttate, che c'è persino troppa libertà e che forse è meglio tornare ad un ruolo più tradizionale di mogli e madri, possibilmente in un contesto familiare uscito dritto dritto da una pubblicità televisiva.
 

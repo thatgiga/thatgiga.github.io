@@ -2,7 +2,7 @@
 layout: post
 title:  "Jobs act"
 date:   2017-03-23 01:00:00 +0100
-categories: luoghi
+categories: persone
 ---
 Ho un amico che da due anni sta cercando lavoro. Questo è quanto gli è capitato oggi.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Glossario bergamasco"
 date:   2022-12-09 10:58:00 +0100
-categories: info
+categories: parole
 ---
 **Ascàs** (v. rifl.): verbo dal significato intermedio tra "aver voglia di" e "degnarsi di" fare qualcosa; usato quasi esclusivamente in frasi negative, es.: *"g'ó de netà fò cà, ma ncö ma àsche mìa"*, "devo pulire casa, ma oggi non mi va".
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "The healing rest"
 date:   2014-04-25 01:00:00 +0100
-categories: parole
+categories: persone
 ---
 Ora ne sono certo, è Morfeo il più compassionevole tra gli dèi.
 
