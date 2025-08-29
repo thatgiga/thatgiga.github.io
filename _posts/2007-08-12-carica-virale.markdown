@@ -20,4 +20,4 @@ Incazzarsi non serve a niente. Ora mi tocca un'altra settimana di attesa. Altro 
 "Inferiore a 50 copie per centimetro cubo."  
 "Allora stia tranquillo. Il test lo facciamo, ma con una carica virale così bassa la probabilità di un contagio è veramente minima."
 
-*Anni dopo la ricerca scientifica confermerà che U=U, undetectable=untransmissible, ovvero che se la carica virale è talmente bassa da non poter essere rilevata, il rischio di contaglio è zero.*
+*Anni dopo la ricerca scientifica confermerà che U=U, undetectable=untransmissible, ovvero che se la carica virale è talmente bassa da non poter essere rilevata, il rischio di contagio è zero.*
